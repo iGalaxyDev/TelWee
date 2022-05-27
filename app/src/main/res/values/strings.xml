@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TelWee</string>
+    <string name="myAppID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="address_pri">https://telweei.flycricket.io/privacy.html</string>
+
+    <string name="country_info">Country:</string>
+    <string name="topic_info">Topic:</string>
+    <string name="frequency_info">Frequency:</string>
+    <string name="website_info">Website:</string>
+    <string name="progress_dialog">Please wait…</string>
+    <string name="try_again">Please try again</string>
+    <string name="share_message">\n TelWee: Powerful Android TV Information \n</string>
+    <string name="splash_description">Powerful Android TV Information</string>
+
+</resources>

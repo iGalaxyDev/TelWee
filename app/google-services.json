@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917022062624",
+    "firebase_url": "https://tv-safari.firebaseio.com",
+    "project_id": "tv-safari",
+    "storage_bucket": "tv-safari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917022062624:android:397702fb0bf2d8f4282445",
+        "android_client_info": {
+          "package_name": "com.hurhco.tvsafari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917022062624-ru0r4tpmciqgef4fjdae8mnstsaeqm7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hurhco.tvsafari",
+            "certificate_hash": "232d0f002348eabad7ff7271342a09940a34e6e0"
+          }
+        },
+        {
+          "client_id": "917022062624-j0orn5so2h2h79bhe510o2sed9ehecnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWPOQKczt5nQ56AxJpYRGuOB5AVamfv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917022062624-j0orn5so2h2h79bhe510o2sed9ehecnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

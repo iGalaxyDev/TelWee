@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <!--region Ad Rules-->
+    <entry>
+        <key>CAN_SHOW_SPLASH_AD</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>CAN_SHOW_MAIN_AD</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>CAN_SHOW_SUB_AD</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>CAN_SHOW_APP_OPEN_AD</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>CAN_SHOW_APP_OPEN_AD</key>
+        <value>false</value>
+    </entry>
+    <!--endregion-->
+
+    <!--region Backendless-->
+    <entry>
+        <key>BACKENDLESS_APP_ID</key>
+        <value>01B43E68-0688-4864-8634-1665D3C29E74</value>
+    </entry>
+
+    <entry>
+        <key>BACKENDLESS_APP_KEY</key>
+        <value>5C92FFE6-A9AD-4CFD-9D5E-2BC3BDCA91DE</value>
+    </entry>
+    <entry>
+        <key>MAIN_TABLE_NAME</key>
+        <value>main_cat</value>
+    </entry>
+    <entry>
+        <key>SUB_TABLE_NAME</key>
+        <value>sub_cat</value>
+    </entry>
+    <entry>
+        <key>SUB_INFO_TABLE_NAME</key>
+        <value>sub_cat_info</value>
+    </entry>
+    <!--endregion-->
+
+    <!--region unitId-->
+    <entry>
+        <key>APP_OPEN_UNIT_ID</key>
+        <value>ca-app-pub-3940256099942544/3419835294</value>
+    </entry>
+    <entry>
+        <key>MAIN_INTERSTITIAL_UNIT_ID</key>
+        <value>ca-app-pub-3940256099942544/1033173712</value>
+    </entry>
+    <entry>
+        <key>SUB_INTERSTITIAL_UNIT_ID</key>
+        <value>ca-app-pub-3940256099942544/1033173712</value>
+    </entry>
+    <entry>
+        <key>MAIN_BANNER_UNIT_ID</key>
+        <value>ca-app-pub-3940256099942544/6300978111</value>
+    </entry>
+    <entry>
+        <key>SUB_BANNER_UNIT_ID</key>
+        <value>ca-app-pub-3940256099942544/6300978111</value>
+    </entry>
+    <!--endregion-->
+
+</defaultsMap>
