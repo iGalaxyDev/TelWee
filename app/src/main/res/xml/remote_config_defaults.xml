@@ -17,10 +17,6 @@
         <key>CAN_SHOW_APP_OPEN_AD</key>
         <value>false</value>
     </entry>
-    <entry>
-        <key>CAN_SHOW_APP_OPEN_AD</key>
-        <value>false</value>
-    </entry>
     <!--endregion-->
 
     <!--region Backendless-->
@@ -42,19 +38,19 @@
     </entry>
     <entry>
         <key>MAIN_INTERSTITIAL_UNIT_ID</key>
-        <value>ca-app-pub-3940256099942544/1033173712</value>
+        <value>ca-app-pub-5378772716460991/5039025292</value>
     </entry>
     <entry>
         <key>SUB_INTERSTITIAL_UNIT_ID</key>
-        <value>ca-app-pub-3940256099942544/1033173712</value>
+        <value>ca-app-pub-5378772716460991/3534371936</value>
     </entry>
     <entry>
         <key>MAIN_BANNER_UNIT_ID</key>
-        <value>ca-app-pub-3940256099942544/6300978111</value>
+        <value>ca-app-pub-5378772716460991/8546191313</value>
     </entry>
     <entry>
         <key>SUB_BANNER_UNIT_ID</key>
-        <value>ca-app-pub-3940256099942544/6300978111</value>
+        <value>ca-app-pub-5378772716460991/8403555233</value>
     </entry>
     <!--endregion-->
 

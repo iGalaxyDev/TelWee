@@ -17,10 +17,6 @@
         <key>CAN_SHOW_APP_OPEN_AD</key>
         <value>false</value>
     </entry>
-    <entry>
-        <key>CAN_SHOW_APP_OPEN_AD</key>
-        <value>false</value>
-    </entry>
     <!--endregion-->
 
     <!--region Backendless-->
