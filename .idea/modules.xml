@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TelWee.iml" filepath="$PROJECT_DIR$/.idea/TelWee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelWee.iml" filepath="$PROJECT_DIR$/.idea/modules/TelWee.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TelWee.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TelWee.app.iml" />
     </modules>
   </component>
