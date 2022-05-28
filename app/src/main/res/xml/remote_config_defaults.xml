@@ -29,6 +29,18 @@
         <key>BACKENDLESS_APP_KEY</key>
         <value>5C92FFE6-A9AD-4CFD-9D5E-2BC3BDCA91DE</value>
     </entry>
+    <entry>
+        <key>MAIN_TABLE_NAME</key>
+        <value>main_cat</value>
+    </entry>
+    <entry>
+        <key>SUB_TABLE_NAME</key>
+        <value>sub_cat</value>
+    </entry>
+    <entry>
+        <key>SUB_INFO_TABLE_NAME</key>
+        <value>sub_cat_info</value>
+    </entry>
     <!--endregion-->
 
     <!--region unitId-->
