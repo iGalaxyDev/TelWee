@@ -117,7 +117,7 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
         context.startActivity(intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
     }
 
-    private void setAdCallBacks(MainModel item) {
+    private void setAdCallBacks(final MainModel item) {
         mInterstitialAd.setAdListener(new AdListener() {
             @Override
             public void onAdLeftApplication() {

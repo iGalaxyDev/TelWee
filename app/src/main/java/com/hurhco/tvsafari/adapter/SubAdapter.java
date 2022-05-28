@@ -125,7 +125,7 @@ public class SubAdapter extends RecyclerView.Adapter<SubAdapter.ViewHolder> {
         }
     }
 
-    private void setAdCallBacks(SubModel item) {
+    private void setAdCallBacks(final SubModel item) {
         mInterstitialAd.setAdListener(new AdListener() {
             @Override
             public void onAdLeftApplication() {
