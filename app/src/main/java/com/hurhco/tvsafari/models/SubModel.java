@@ -10,9 +10,9 @@ public class SubModel {
     public String country;
     public String topic;
     public String frequency;
+    public String referer;
 
-
-    public SubModel(int channelId, String link, String channelName, int sortId, String pic, String des, String country, String topic, String frequency) {
+    public SubModel(int channelId, String link, String channelName, int sortId, String pic, String des, String country, String topic, String frequency, String referer) {
         this.channelId = channelId;
         this.sortId = sortId;
         this.link = link;
@@ -22,6 +22,7 @@ public class SubModel {
         this.country = country;
         this.topic = topic;
         this.frequency = frequency;
+        this.referer = referer;
     }
 
     public String getLink() {
@@ -50,5 +51,9 @@ public class SubModel {
 
     public String getFrequency() {
         return frequency;
+    }
+
+    public String getReferer() {
+        return referer;
     }
 }

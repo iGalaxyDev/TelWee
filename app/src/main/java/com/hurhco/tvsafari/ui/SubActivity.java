@@ -121,12 +121,14 @@ public class SubActivity extends AppCompatActivity {
                             "des",
                             "country",
                             "topic",
-                            "frequency");
+                            "frequency",
+                            "referer");
 
                     myServer.link = ((String) item.get("link"));
                     myServer.channelName = ((String) item.get("name"));
                     myServer.sortId = ((Integer) item.get("sort"));
                     myServer.pic = ((String) item.get("pic"));
+                    myServer.referer = ((String) item.get("referer"));
 
                     if (id == (myServer.channelId = ((Integer) item.get("id")))) {
                         subModels.add(myServer);
@@ -167,7 +169,8 @@ public class SubActivity extends AppCompatActivity {
                             "des",
                             "country",
                             "topic",
-                            "frequency");
+                            "frequency",
+                            "referer");
 
                     myServer.link = ((String) item.get("link"));
                     myServer.channelName = ((String) item.get("name"));

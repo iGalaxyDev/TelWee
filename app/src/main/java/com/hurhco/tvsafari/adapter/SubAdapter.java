@@ -111,6 +111,7 @@ public class SubAdapter extends RecyclerView.Adapter<SubAdapter.ViewHolder> {
             Intent intent = new Intent(context, PlayerActivity.class);
             intent.putExtra("link", item.getLink());
             intent.putExtra("name", item.getChannelName());
+            intent.putExtra("referer", item.getReferer());
             context.startActivity(intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
         } else {
             Intent intent = new Intent(context, InfoActivity.class);
